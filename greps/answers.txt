@@ -1,10 +1,40 @@
 # Part 1
 ### a)
+grep -E "beed" filescan_00.1 > ../captured/beedrill.txt
 
+grep -E "blas" filescan_00.1 > ../captured/blastoise.txt
+
+grep -E "butt" filescan_00.1 > ../captured/butterfree.txt
+
+grep -E "bulb" filescan_00.1 > ../captured/bulbasaur.txt
+
+ggrep -P "mander" filescan_00.2 > ../captured/charmander.txt
+
+ggrep -P "izard" filescan_00.2 > ../captured/charizard.txt
+
+ggrep -P "meleon" filescan_00.2 > ../captured/charmeleon.txt
+
+ggrep -P "ivy" filescan_00.3 > ../captured/ivysaur.txt
+
+ggrep -P "jigg" filescan_00.3 > ../captured/jigglypuff.txt
+
+ggrep -P "pika" filescan_00.3 > ../captured/pikachu.txt
+
+ggrep -P "meow" filescan_00.3 > ../captured/meowth.txt
+
+ggrep -P "psyd" filescan_00.4 > ../captured/psyduck.txt
+
+ggrep -P "squi" filescan_00.4 > ../captured/squirtle.txt
+
+ggrep -P "wart" filescan_00.4 > ../captured/wartortle.txt
+
+ggrep -P "venu" filescan_00.4 > ../captured/venusaur.txt
 
 
 
 ### b)
+
+
 
 
 
