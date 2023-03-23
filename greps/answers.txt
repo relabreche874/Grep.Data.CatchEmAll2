@@ -35,9 +35,6 @@ ggrep -P "venu" filescan_00.4 > ../captured/venusaur.txt
 ### b)
 
 
-
-
-
 ### c)
 
 
