@@ -44,7 +44,8 @@ Save the each pokemon as a separate `.txt` file in the `captured` directory.
 
 ### Part 2: Stats
 - **a)** How many pokemon are there? Show your grep that you used to get to that number.
-wc *
+15 (minus 1 for instructions)
+ls -l | grep -v ^l | wc -l
 
 
 - **b)** Who are the three biggest pokemon? (number of lines)
